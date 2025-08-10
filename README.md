@@ -37,6 +37,7 @@
 - **Full Stack Development Intern — Mist Solution Pvt Ltd, Coimbatore (Aug–Sep 2024)**  
   Designed and developed interactive web applications, including a dynamic **To-Do List**, a **Student Registration Portal**, and a responsive **Calculator App**. Leveraged **HTML, CSS, Bootstrap, JavaScript, and React.js** to create visually appealing, mobile-friendly interfaces with smooth user experiences. Implemented reusable components, optimized performance, and ensured cross-browser compatibility to deliver production-ready solutions within tight deadlines.
 
+---
 
 ###  Contact Me
 - **Email**: [naveenmr031@gmail.com](mailto:naveenmr031@gmail.com)  
